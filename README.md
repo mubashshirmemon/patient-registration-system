@@ -35,13 +35,13 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hospital-management.git
+   git clone https://github.com/mubashshirmemon/patient-registration-system.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd hospital-management
+   cd patient-registration-system
    ```
 
 3. Install dependencies:
